@@ -11,3 +11,6 @@ Este proyecto tiene como objetivo construir y desplegarr un panel de control par
 - pandas
 - plotly-express
 - streamlit
+
+acceso a la aplicacion: 
+https://sprint6-lgrc.onrender.com
